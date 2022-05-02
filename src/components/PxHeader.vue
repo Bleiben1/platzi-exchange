@@ -11,7 +11,7 @@
           </router-link>
         </div>
         <div
-          class="hidden sm:block w-full blok flex-grow lg:flex lg:items-center lg:wauto"
+          class="hidden sm:block block flex-grow lg:flex lg:items-center lg:wauto"
         >
           <div class="text-sm lg:flex-grow">
             <router-link
